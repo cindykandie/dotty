@@ -1,0 +1,24 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+main{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+main a{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid maroon;
+    margin: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    min-width: 100px;
+    height: 150px;
+    box-shadow: 1px 1px 10x black;
+    background-color: beige;
+    flex: 1 1;
+}
+
